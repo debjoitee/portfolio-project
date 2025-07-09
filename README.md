@@ -26,7 +26,7 @@ I'm **Debjoitee Biswas** – a passionate **designer**, **illustrator**, and beg
 
 ## 📬 Connect With Me
 
-- 📧 Email: debjoitee@example.com
-- 💼 LinkedIn: [linkedin.com/in/debjoitee](https://linkedin.com/in/debjoitee) *(replace with real links)*
+- 📧 Email: debjoiteebiswas.official@gmail.com
+- 💼 LinkedIn:
 
 Thanks for visiting! ⭐
