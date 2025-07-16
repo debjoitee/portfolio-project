@@ -173,3 +173,80 @@ display: inline-block;
 html {
   scroll-behavior: smooth;
 }
+
+
+/* Updated CSS with responsive mobile support added at the bottom using @media queries */
+
+
+@media (max-width: 768px) {
+    :root {
+        --big-font: 3rem;
+        --p-font: 1rem;
+    }
+
+    header {
+        padding: 20px 10px;
+        flex-direction: column;
+        align-items: flex-start;
+        background: var(--bg-color); /* optional: add background for readability */
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        padding: 10px 0;
+    }
+
+    .navbar a {
+        margin: 10px 0;
+    }
+
+    .home {
+        flex-direction: column;
+        justify-content: center;
+        padding-top: 100px;
+        text-align: center;
+    }
+
+    .home-img img {
+        width: 200px;
+        height: 200px;
+        margin-bottom: 20px;
+    }
+
+    .home-text span {
+        font-size: 13px;
+        padding: 5px 15px;
+    }
+
+    .home-text h1 {
+        font-size: 2.8rem;
+    }
+
+    .home-text p {
+        font-size: 0.95rem;
+        line-height: 26px;
+    }
+
+    .btn,
+    .two {
+        font-size: 16px;
+        padding: 10px 15px;
+        margin: 10px auto;
+    }
+
+    section {
+        padding: 0 5%;
+    }
+
+    .menu-btn {
+        margin-top: 10px;
+    }
+
+    .logo {
+        font-size: 28px;
+    }
+}
+
+
